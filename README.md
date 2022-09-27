@@ -40,3 +40,8 @@ The generated `output.xlsx` then looks like:
 
 
 
+## Reference
+
+The following command was used to create the standalone executable with [Pyinstaller](https://pyinstaller.org):
+
+* `pyinstaller source\HighlightRepeats\app.py --onefile --name HighlightRepeats`
